@@ -1,5 +1,5 @@
 
-![logo](https://github.com/sumandas473/Suman/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/sumandas473/Suman-1/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Suman Das</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
